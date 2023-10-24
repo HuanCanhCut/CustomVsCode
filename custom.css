@@ -1,0 +1,69 @@
+.mtk1 {
+  color: #da70d6;
+  text-shadow: 0 0 2px #001716, 0 0 3px #da70d69c, 0 0 5px #da70d69c,
+    0 0 8px #da70d69c;
+  backface-visibility: hidden;
+}
+
+.mtk4 {
+  color: #ff8a6d;
+  text-shadow: 0 0 2px #001716, 0 0 3px #d57c3d61, 0 0 5px #d57c3d61,
+    0 0 8px #d57c3d61;
+  backface-visibility: hidden;
+}
+
+.mtk6 {
+  color: #ff71c4;
+  text-shadow: 0 0 2px #001716, 0 0 3px #d467b575, 0 0 5px #d467b575,
+    0 0 8px #d467b575;
+  backface-visibility: hidden;
+}
+
+.mtk7 {
+  color: #5abaff;
+  text-shadow: 0 0 2px #001716, 0 0 3px #5abaff9c, 0 0 5px #5abaff9c,
+    0 0 8px #5abaff9c;
+  backface-visibility: hidden;
+}
+
+.mtk8 {
+  color: #ffd755;
+  text-shadow: 0 0 2px #393a33, 0 0 8px #ffa6009c, 0 0 2px #ffa6009c,
+    0 0 8px #ffa6009c;
+  backface-visibility: hidden;
+}
+
+.mtk10 {
+  color: #36f9f6;
+  text-shadow: 0 0 2px #001716, 0 0 3px #29b3c58e, 0 0 5px #29b3c58e,
+    0 0 8px #29b3c58e;
+  backface-visibility: hidden;
+}
+
+.mtk11 {
+  color: #35ffdd;
+  text-shadow: 0 0 2px #001716, 0 0 3px #2ac8aea7, 0 0 5px #2ac8aea7,
+    0 0 8px #2ac8aea7;
+  backface-visibility: hidden;
+}
+
+.mtk12 {
+  color: #ff6200;
+  text-shadow: 0 0 2px #001716, 0 0 3px #bf4900a7, 0 0 5px #bf4900a7,
+    0 0 8px #bf4900a7;
+  backface-visibility: hidden;
+}
+
+.mtk13 {
+  color: #36f9f6;
+  text-shadow: 0 0 2px #001716, 0 0 3px #29b3c59c, 0 0 5px #2db2c471,
+    0 0 8px #2caebf9c;
+  backface-visibility: hidden;
+}
+
+.mtk14 {
+  color: #ffffffed;
+  text-shadow: 0 0 2px #001716, 0 0 3px #ffffffa3, 0 0 5px #ffffffa3,
+    0 0 8px #ffffffa3;
+  backface-visibility: hidden;
+}
