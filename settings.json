@@ -1,0 +1,88 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "terminal.integrated.fontFamily": "MesloLGM Nerd Font",
+  "editor.fontFamily": "Source Code Pro",
+  "editor.fontSize": 11.2,
+  "editor.letterSpacing": 0.4,
+  "editor.fontWeight": "500",
+  "editor.smoothScrolling": true,
+  "terminal.integrated.fontSize": 11,
+  "editor.lineHeight": 25,
+  "workbench.iconTheme": "vscode-icons",
+  "synthwave84.brightness": 0.35,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "javascript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": true,
+  "javascript.inlayHints.parameterTypes.enabled": true,
+  "javascript.inlayHints.enumMemberValues.enabled": true,
+  "javascript.inlayHints.variableTypes.enabled": true,
+  "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "editor.inlayHints.padding": true,
+  "python.analysis.inlayHints.variableTypes": true,
+  "python.analysis.inlayHints.callArgumentNames": "all",
+  "python.analysis.inlayHints.functionReturnTypes": true,
+  "python.analysis.inlayHints.pytestParameters": true,
+  "background.fullscreen": {
+    "images": [
+      // "https://file.vfo.vn/hinh/2015/12/meo-con-dang-yeu-lam-hinh-nen-may-tinh-11.jpg"
+      "https://raw.githubusercontent.com/HuanCanhCut/BackgroundVsCode/main/1701834895392.png"
+    ],
+    "opacity": 0.88,
+    "size": "cover",
+    "position": "center",
+    "interval": 0
+  },
+  "vscode_custom_css.imports": [
+    "file:///C:/Users/Lenovo/Documents/SystemCustom/custom.css"
+  ],
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#161925",
+    "activityBar.background": "#161925",
+    "tab.inactiveBackground": "#0a0d1c",
+    "tab.activeForeground": "#fff",
+    "tab.activeBorder": "#0080ff",
+    "tab.activeBackground": "#121212",
+    "editor.background": "#0a0d1c",
+    "sideBar.background": "#0a0d1c83",
+    "terminal.background": "#141723",
+    "editor.lineHighlightBackground": "#3e1f35"
+  },
+  // "editor.tokenColorCustomizations": {
+  //   "[SynthWave '84]": {
+  //     "textMateRules": [
+  //       {
+  //         "scope": "string.quoted.single.js.jsx",
+  //         "settings": {
+  //           "foreground": "#f7ffa0"
+  //         }
+  //       }
+  //     ]
+  //   }
+  // },
+  "indentRainbow.colors": [
+    "rgba(255,255,64,0)",
+    "rgba(127,255,127,0)",
+    "rgba(255,127,255,0)",
+    "rgba(79,236,236,0)"
+  ],
+  "git.enableSmartCommit": true,
+  "files.autoSave": "onFocusChange",
+  "editor.fontLigatures": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "explorer.confirmDelete": false,
+  "html.format.wrapAttributes": "force-aligned",
+  "editor.guides.bracketPairs": "active",
+  "editor.bracketPairColorization.enabled": true,
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "explorer.confirmDragAndDrop": false,
+  "tabnine.experimentalAutoImports": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "vscode-pets.petSize": "small",
+  "gitlens.views.searchAndCompare.files.layout": "list",
+  "workbench.colorTheme": "SynthWave '84"
+}
